@@ -8,3 +8,9 @@ Trabajaremos en 3 etapas:
 2. Frontend: Desarrollo en HTML + CSS + JS
 3. Backend: Conexión con base de datos
 
+---
+
+## Instalamos una extensión
+
+Live Server de Ritwick Dey
+https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer

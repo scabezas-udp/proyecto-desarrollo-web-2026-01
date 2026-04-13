@@ -1,0 +1,25 @@
+body {
+    background-color: greenyellow;
+    color: black;
+}
+
+h2 {
+    color: red;
+}
+
+.casillaNombre{
+    width: 191px;
+}
+
+.iconos {
+    width: 12px;
+    padding-right: 10px;
+}
+
+.boton {
+    background-color: black;
+    color: yellowgreen;
+    padding: 5px;
+    margin-top: 10px;
+    width: 200px;
+}
